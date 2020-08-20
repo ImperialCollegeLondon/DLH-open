@@ -1,4 +1,4 @@
-# Demo Python Custom Notebook Grader for Coursera
+# Python Custom Notebook Grader Demo for Coursera
 This is a basic template for creating an autograder for a notebook lab submission in Coursera. It is a modification of the Coursera-provided *DemoPythonGrader*, which can be found [here](https://github.com/coursera/programming-assignments-demo/tree/master/custom-graders). Instructions on setting up your environment to write and test custom graders locally are available in the readme at the address linked above. You will need [docker](https://docs.docker.com/get-started/) and [courseraprogramming](https://github.com/coursera/courseraprogramming) to create your autograder.
 
 Please get in touch with the DLH tech team if you have any further questions regarding building autograders.
