@@ -120,4 +120,5 @@ def main():
         feedback = "Great job! You passed all test cases."
     send_feedback(finalFractionalScore,feedback)
 
-main()
+if __name__ == '__main__':
+    main()
