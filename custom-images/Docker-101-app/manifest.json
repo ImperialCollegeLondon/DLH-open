@@ -1,0 +1,10 @@
+{
+  "name": "101-app",
+  "version": "1.0.0",
+  "httpPort": 3000,
+  "mounts": [
+    {
+      "path": "/etc/todos"
+    }
+  ]
+}
