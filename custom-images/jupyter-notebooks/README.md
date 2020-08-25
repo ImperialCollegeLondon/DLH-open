@@ -26,7 +26,7 @@
 
 - [R package repo](https://cran.r-project.org/)
 
-- [Python pip package repository](https://pypi.org/) (note that all of these can be installed by pip and are therefore supported in Coursera directly - no need to create a custom image.
+- [Python pip package repository](https://pypi.org/) (note that all of these can be installed by pip and are therefore supported in Coursera directly - no need to create a custom image.)
 
 - In general try to install packages from the conda repository before using other sources like the CRAN R repo. This is because there can be version conflict if you do it the other way around.
 
